@@ -19,9 +19,8 @@
 #
 
 pulp_soc:
-  commit: v2.0.0
-  server: https://github.com
-  group:  pulp-platform
+  commit: master
+  group: declankennedyul
 
 tbtools:
   commit: v0.1
